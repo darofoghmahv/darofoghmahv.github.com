@@ -6,7 +6,7 @@ title: Wind
 email: wind@example.com
 author: Wind Sample
 
-lang: en
+lang: fa
 
 plugins:
   - jekyll-seo-tag
